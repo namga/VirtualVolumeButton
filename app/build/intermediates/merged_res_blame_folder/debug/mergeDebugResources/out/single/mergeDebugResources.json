@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.virtualvolume.firehd.app-debug-4:/drawable_screenshot_7_1080x1920.png.flat",
+        "source": "com.virtualvolume.firehd.app-main-6:/drawable/screenshot_7_1080x1920.png"
+    },
+    {
+        "merged": "com.virtualvolume.firehd.app-debug-4:/drawable_screenshot_3_1080x1920.png.flat",
+        "source": "com.virtualvolume.firehd.app-main-6:/drawable/screenshot_3_1080x1920.png"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\9.6.0\\com.virtualvolume.firehd.app-debug-4:\\drawable_ic_launcher_512.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\9.6.0\\com.virtualvolume.firehd.app-main-6:\\drawable\\ic_launcher_512.png"
+    },
+    {
+        "merged": "com.virtualvolume.firehd.app-debug-4:/drawable_screenshot_4_1080x1920.png.flat",
+        "source": "com.virtualvolume.firehd.app-main-6:/drawable/screenshot_4_1080x1920.png"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\9.6.0\\com.virtualvolume.firehd.app-debug-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\9.6.0\\com.virtualvolume.firehd.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\9.6.0\\com.virtualvolume.firehd.app-debug-4:\\drawable_feature_graphic_1024x500.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\9.6.0\\com.virtualvolume.firehd.app-main-6:\\drawable\\feature_graphic_1024x500.png"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\9.6.0\\com.virtualvolume.firehd.app-debug-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\9.6.0\\com.virtualvolume.firehd.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\9.6.0\\com.virtualvolume.firehd.app-debug-4:\\drawable_ic_launcher_monochrome.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\9.6.0\\com.virtualvolume.firehd.app-main-6:\\drawable\\ic_launcher_monochrome.xml"
+    },
+    {
+        "merged": "com.virtualvolume.firehd.app-debug-4:/drawable_screenshot_5_1080x1920.png.flat",
+        "source": "com.virtualvolume.firehd.app-main-6:/drawable/screenshot_5_1080x1920.png"
+    },
+    {
+        "merged": "com.virtualvolume.firehd.app-debug-4:/drawable_screenshot_1_1080x1920.png.flat",
+        "source": "com.virtualvolume.firehd.app-main-6:/drawable/screenshot_1_1080x1920.png"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\9.6.0\\com.virtualvolume.firehd.app-debug-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\9.6.0\\com.virtualvolume.firehd.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\9.6.0\\com.virtualvolume.firehd.app-debug-4:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\9.6.0\\com.virtualvolume.firehd.app-main-6:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.virtualvolume.firehd.app-debug-4:/drawable_screenshot_6_1080x1920.png.flat",
+        "source": "com.virtualvolume.firehd.app-main-6:/drawable/screenshot_6_1080x1920.png"
+    },
+    {
+        "merged": "com.virtualvolume.firehd.app-debug-4:/drawable_screenshot_2_1080x1920.png.flat",
+        "source": "com.virtualvolume.firehd.app-main-6:/drawable/screenshot_2_1080x1920.png"
+    },
+    {
+        "merged": "com.virtualvolume.firehd.app-debug-4:/drawable_screenshot_8_1080x1920.png.flat",
+        "source": "com.virtualvolume.firehd.app-main-6:/drawable/screenshot_8_1080x1920.png"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\9.6.0\\com.virtualvolume.firehd.app-debug-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\9.6.0\\com.virtualvolume.firehd.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

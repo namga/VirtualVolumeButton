@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+drawable feature_graphic_1024x500
+drawable ic_launcher
+drawable ic_launcher_512
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_launcher_monochrome
+drawable screenshot_1_1080x1920
+drawable screenshot_2_1080x1920
+drawable screenshot_3_1080x1920
+drawable screenshot_4_1080x1920
+drawable screenshot_5_1080x1920
+drawable screenshot_6_1080x1920
+drawable screenshot_7_1080x1920
+drawable screenshot_8_1080x1920
+mipmap ic_launcher
+mipmap ic_launcher_round
+style AppTheme

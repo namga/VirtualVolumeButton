@@ -1,0 +1,4 @@
+com.virtualvolume.firehd.test.app-androidTest-0 C:\Users\nguye\Downloads\VirtualVolume-FireHD10-v1.0.0-source\VirtualVolume-FireHD10-v1.0.0\app\build\generated\res\resValues\androidTest\debug
+com.virtualvolume.firehd.test.app-mergeDebugAndroidTestResources-1 C:\Users\nguye\Downloads\VirtualVolume-FireHD10-v1.0.0-source\VirtualVolume-FireHD10-v1.0.0\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.virtualvolume.firehd.test.app-mergeDebugAndroidTestResources-2 C:\Users\nguye\Downloads\VirtualVolume-FireHD10-v1.0.0-source\VirtualVolume-FireHD10-v1.0.0\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.virtualvolume.firehd.test.app-debugAndroidTest-3 C:\Users\nguye\Downloads\VirtualVolume-FireHD10-v1.0.0-source\VirtualVolume-FireHD10-v1.0.0\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -1,0 +1,17 @@
+com.virtualvolume.firehd:mipmap/ic_launcher = 0x7f020000
+com.virtualvolume.firehd:drawable/screenshot_7_1080x1920 = 0x7f01000c
+com.virtualvolume.firehd:mipmap/ic_launcher_round = 0x7f020001
+com.virtualvolume.firehd:drawable/feature_graphic_1024x500 = 0x7f010000
+com.virtualvolume.firehd:drawable/screenshot_5_1080x1920 = 0x7f01000a
+com.virtualvolume.firehd:drawable/screenshot_2_1080x1920 = 0x7f010007
+com.virtualvolume.firehd:drawable/screenshot_1_1080x1920 = 0x7f010006
+com.virtualvolume.firehd:drawable/ic_launcher_monochrome = 0x7f010005
+com.virtualvolume.firehd:style/AppTheme = 0x7f030000
+com.virtualvolume.firehd:drawable/ic_launcher_foreground = 0x7f010004
+com.virtualvolume.firehd:drawable/ic_launcher = 0x7f010001
+com.virtualvolume.firehd:drawable/screenshot_8_1080x1920 = 0x7f01000d
+com.virtualvolume.firehd:drawable/ic_launcher_background = 0x7f010003
+com.virtualvolume.firehd:drawable/screenshot_4_1080x1920 = 0x7f010009
+com.virtualvolume.firehd:drawable/screenshot_3_1080x1920 = 0x7f010008
+com.virtualvolume.firehd:drawable/screenshot_6_1080x1920 = 0x7f01000b
+com.virtualvolume.firehd:drawable/ic_launcher_512 = 0x7f010002

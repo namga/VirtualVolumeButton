@@ -1,0 +1,7 @@
+com.virtualvolume.firehd.app-pngs-0 C:\Users\nguye\Downloads\VirtualVolume-FireHD10-v1.0.0-source\VirtualVolume-FireHD10-v1.0.0\app\build\generated\res\pngs\release
+com.virtualvolume.firehd.app-resValues-1 C:\Users\nguye\Downloads\VirtualVolume-FireHD10-v1.0.0-source\VirtualVolume-FireHD10-v1.0.0\app\build\generated\res\resValues\release
+com.virtualvolume.firehd.app-packageReleaseResources-2 C:\Users\nguye\Downloads\VirtualVolume-FireHD10-v1.0.0-source\VirtualVolume-FireHD10-v1.0.0\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.virtualvolume.firehd.app-packageReleaseResources-3 C:\Users\nguye\Downloads\VirtualVolume-FireHD10-v1.0.0-source\VirtualVolume-FireHD10-v1.0.0\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.virtualvolume.firehd.app-release-4 C:\Users\nguye\Downloads\VirtualVolume-FireHD10-v1.0.0-source\VirtualVolume-FireHD10-v1.0.0\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.virtualvolume.firehd.app-main-5 C:\Users\nguye\Downloads\VirtualVolume-FireHD10-v1.0.0-source\VirtualVolume-FireHD10-v1.0.0\app\src\main\res
+com.virtualvolume.firehd.app-release-6 C:\Users\nguye\Downloads\VirtualVolume-FireHD10-v1.0.0-source\VirtualVolume-FireHD10-v1.0.0\app\src\release\res
